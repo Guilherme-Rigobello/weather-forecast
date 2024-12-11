@@ -1,0 +1,42 @@
+.send-container {
+  max-width: 1000px;
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.send-container h1 {
+  font-size: 2.5em;
+  color: #fff;
+  margin-top: .5em;
+}
+
+.send-container input {
+  margin-top: 1.5em;
+  outline: none;
+  color: #333;
+  padding: 10px;
+  border-radius: 20px 0 0 20px;
+  border: none;
+  width: 60%;
+  max-width: 300px;
+}
+
+.send-container button {
+  color: #fff;
+  background-color: #ff9800;
+  border: 0;
+  border-radius: 0 20px 20px 0;
+  padding: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-weight: 500;
+}
+
+.send-container button:hover {
+  background-color: #f57c00;
+}
+
+.react-toastify__toast--success-body {
+  text-transform: capitalize;
+}
