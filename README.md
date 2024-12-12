@@ -1,11 +1,10 @@
 # **🌤 Weather Forecast**
 
-🗺 See the weather forecast for the next 5 days in real time in any city in the world!
-
+### 🗺 See the weather forecast for the next 5 days in real time in any city in the world!
 
 https://github.com/user-attachments/assets/758409ce-c92b-4e1d-a122-af7d878d7eef
 
-
+### Run the project: https://guilherme-rigobello.github.io/weather-forecast/
 
 ---
 
