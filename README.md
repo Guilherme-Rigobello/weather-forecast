@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/758409ce-c92b-4e1d-a122-af7d878d7eef
 ## **🛠 Technologies Used**
   - Vite + React
   - Axios
-  - OpenWeather API (https://home.openweathermap.org)
+  - OpenWeather API ----> https://openweathermap.org/api
 
 
 
